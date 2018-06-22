@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#2196F3</color>
+    <drawable name="bg_select">#2196F3</drawable>
+    <drawable name="bg">#EEEEEE</drawable>
+    <color name="air_condition_verybad">#ff0000</color>
+    <color name="air_condition_bad">#ff9500</color>
+    <color name="air_condition_normal">#88ff00</color>
+    <color name="air_condition_good">#00bbff</color>
+</resources>
+
+
